@@ -41,7 +41,7 @@ export default function App() {
           <span className="grid h-8 w-8 place-items-center rounded-full bg-[#11110f] text-[#d5ff62] transition-transform duration-300 group-hover:rotate-12">
             <CompassMark />
           </span>
-          <span className="text-base tracking-[-0.06em]">NORTHSTAR</span>
+          <span className="text-base tracking-[-0.06em]"Wonderlands</span>
         </a>
         <button
           onClick={reportIssue}
@@ -90,7 +90,7 @@ export default function App() {
           Ucdavcbw12hjkSantaNil4iojkjkkjiuyghdsuwbbc7867lkghe
         </p>
       </div>
-      <p className="absolute bottom-6 right-6 z-10 text-xs font-bold uppercase tracking-[0.18em] text-[#56564f] sm:bottom-8 sm:right-10">Est. 2026</p>
+      <p className="absolute bottom-6 right-6 z-10 text-xs font-bold uppercase tracking-[0.18em] text-[#56564f] sm:bottom-8 sm:right-10">2026</p>
     </main>
   );
 }
